@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.531e17f8.chunk.css",
+    "main.js": "/static/js/main.3b79ea6d.chunk.js",
+    "main.js.map": "/static/js/main.3b79ea6d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.8685e9af.js",
+    "runtime~main.js.map": "/static/js/runtime~main.8685e9af.js.map",
+    "static/css/2.a18897dd.chunk.css": "/static/css/2.a18897dd.chunk.css",
+    "static/js/2.826cf5cf.chunk.js": "/static/js/2.826cf5cf.chunk.js",
+    "static/js/2.826cf5cf.chunk.js.map": "/static/js/2.826cf5cf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.43eb9705042afa6f57b86a71c34f32a2.js": "/precache-manifest.43eb9705042afa6f57b86a71c34f32a2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a18897dd.chunk.css.map": "/static/css/2.a18897dd.chunk.css.map",
+    "static/css/main.531e17f8.chunk.css.map": "/static/css/main.531e17f8.chunk.css.map",
+    "static/media/bannerlogo.png": "/static/media/bannerlogo.c89875fe.png",
+    "static/media/App.css": "/static/media/bg3.a0a61e01.svg",
+    "static/media/dataimg1.png": "/static/media/dataimg1.db53ad05.png",
+    "static/media/dataimg2.png": "/static/media/dataimg2.1e410db1.png",
+    "static/media/dataimg3.png": "/static/media/dataimg3.f848c3dd.png",
+    "static/media/all.css": "/static/media/fa-solid-900.ef3df984.eot",
+    "static/media/insights_img1.jpg": "/static/media/insights_img1.8636b425.jpg",
+    "static/media/insights_img2.jpg": "/static/media/insights_img2.6c6a5493.jpg",
+    "static/media/insights_img3.jpg": "/static/media/insights_img3.a6f4fc6f.jpg",
+    "static/media/meet.svg": "/static/media/meet.20a542e6.svg",
+    "static/media/reallyfast.svg": "/static/media/reallyfast.f703eca5.svg",
+    "static/media/refreshinglysimple.svg": "/static/media/refreshinglysimple.a288386b.svg",
+    "static/media/remarkablyaffordable.svg": "/static/media/remarkablyaffordable.dd8720b1.svg",
+    "static/media/technology.svg": "/static/media/technology.b3648a04.svg",
+    "static/media/vision.svg": "/static/media/vision.14012213.svg",
+    "static/media/whoweare.svg": "/static/media/whoweare.3af4b090.svg"
+  }
+}
